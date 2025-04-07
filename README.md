@@ -72,8 +72,8 @@ You can use, modify, and share it freely with proper credit.
 ## 📢 Maintainer
 
 **Soumyajit Das**  
-GitHub: [github.com](https://github.com/)  
-Email: _[Add your contact if you'd like]_
+GitHub: [sudiptasoumyajit](https://github.com/sudiptasoumyajit)  
+Email: _[epubbysudsou@gmail.com]
 
 ---
 
